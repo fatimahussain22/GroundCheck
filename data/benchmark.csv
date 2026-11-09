@@ -1,0 +1,21 @@
+id,source,question,answer,gold_label
+1,"Employees receive 20 days of annual leave per year.",How many annual leave days are offered?,Employees receive 20 days of annual leave.,supported
+2,"Employees receive 20 days of annual leave per year.",How many annual leave days are offered?,Employees receive 25 days of annual leave.,unsupported
+3,"Employees receive 20 days of annual leave per year.",Is sick leave paid?,The source does not provide this information.,supported
+4,"The library opens at 9 AM and closes at 6 PM on weekdays.",When does the library open?,The library opens at 9 AM on weekdays.,supported
+5,"The library opens at 9 AM and closes at 6 PM on weekdays.",When does the library close?,The library closes at 8 PM on weekdays.,unsupported
+6,"The library opens at 9 AM and closes at 6 PM on weekdays.",Is the library open on Sunday?,It is open on Sunday from 10 AM to 4 PM.,unsupported
+7,"The workshop has 30 seats and registration is free.",How many seats are there?,There are 30 seats.,supported
+8,"The workshop has 30 seats and registration is free.",Does registration cost money?,Registration costs $10.,unsupported
+9,"The workshop has 30 seats and registration is free.",Who is the instructor?,I cannot determine the instructor from this source.,supported
+10,"The server has 16 CPU cores and 64 GB RAM.",How much RAM does the server have?,The server has 64 GB of RAM.,supported
+11,"The server has 16 CPU cores and 64 GB RAM.",How many CPU cores does the server have?,The server has 32 CPU cores.,unsupported
+12,"The server has 16 CPU cores and 64 GB RAM.",What operating system is installed?,It runs Ubuntu 24.04.,unsupported
+13,"The conference starts on 12 March and ends on 14 March.",When does the conference end?,It ends on 14 March.,supported
+14,"The conference starts on 12 March and ends on 14 March.",When does the conference start?,It starts on 11 March.,unsupported
+15,"The conference starts on 12 March and ends on 14 March.",Where is the conference located?,The source does not state the location.,supported
+16,"The delivery fee is 200 rupees for orders below 2000 rupees.",What is the delivery fee for small orders?,It is 200 rupees for orders below 2000 rupees.,supported
+17,"The delivery fee is 200 rupees for orders below 2000 rupees.",What is the delivery fee for small orders?,It is 100 rupees for orders below 2000 rupees.,unsupported
+18,"The delivery fee is 200 rupees for orders below 2000 rupees.",Is delivery free above 2000 rupees?,Yes delivery is free above 2000 rupees.,unsupported
+19,"The course includes Python and SQL modules.",Which modules are included?,Python and SQL are included.,supported
+20,"The course includes Python and SQL modules.",Which modules are included?,Python SQL and Java are included.,unsupported
